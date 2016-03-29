@@ -13,8 +13,8 @@ compileJava {
     targetCompatibility = 1.7
 }
 
-group = 'org.mousio'
-version = '2.10.1-SNAPSHOT'
+group = 'com.memnon'
+version = '2.10.1.refresh'
 
 ext {
     isSnapshot = version.endsWith("-SNAPSHOT")
